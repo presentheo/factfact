@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+button {
+  background-color: inherit;
+  background-image: none;
+  border: 1px solid #ddd;
+  margin: 0;
+  padding: 12px 20px;
+  border-radius: 5px;
+}
+
+.container {
+  max-width: 640px;
+  margin: auto;
+  padding: 30px;
+}
